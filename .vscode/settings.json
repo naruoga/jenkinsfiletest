@@ -1,0 +1,4 @@
+{
+    "jenkins.pipeline.linter.connector.user": "naruhiko",
+    "jenkins.pipeline.linter.connector.crumbUrl": "http://localhost:8080/crumbIssuer/api/xml?xpath=concat(//crumbRequestField,%22:%22,//crumb))"
+}
